@@ -1,0 +1,47 @@
+body {
+	font-family: 'Poppins', sans-serif;
+
+	text-align: center;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(110deg, #acd9e9 60%, #97d4e9 60%);
+
+	
+  }
+
+.main {
+	background-image: url(../img/trevligt.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	text-shadow: #FC0 1px 0 10px;
+}
+
+  h1 {
+	margin-top: 50px;
+  }
+
+  h2 {
+		margin-bottom: 10px;
+  }
+  h3 {
+	margin-bottom: 25px;
+}
+
+div {
+	text-align: center;
+}
+
+  img {
+	width: 300px;
+    height: 400px;
+	text-align: center;
+  }
+
+  
